@@ -51,14 +51,6 @@ Experienced analyst & developer passionate about building data pipelines, busine
 
 ---
 
-## 📬 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Email](mailto:your.email@example.com)
-- [Portfolio](https://your-portfolio.com)  
-- [Twitter](https://twitter.com/yourhandle) (optional)
-
----
-
 ## 🐍 Contribution Snake
 ![GitHub Contribution Snake](https://github.com/shubhamrajiwade29/shubhamrajiwade29/blob/output/github-contribution-grid-snake.svg)
 
