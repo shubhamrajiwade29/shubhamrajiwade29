@@ -4,12 +4,13 @@
 🏥 Data Analyst Co-op @ Mass General Brigham (HomeBase)  
 🎓 MS Engineering Management @ Northeastern University  
 📍 Boston, MA | Open to Full-Time 2026  
+🌐 [Portfolio](https://shubhamrajiwade29.github.io/portfolio)
 
 ---
 
 ## About Me
 
-4+ years delivering enterprise CRM and data solutions at TCS and Deloitte across financial services and healthcare. Now deepening expertise in data engineering, machine learning, Salesforce Data Cloud, and AI-driven analytics.
+3.5+ years delivering enterprise CRM and data solutions at TCS and Deloitte across financial services and healthcare. Now deepening expertise in data engineering, machine learning, Salesforce Data Cloud, and AI-driven analytics.
 
 ---
 
@@ -43,10 +44,14 @@ Multi-dashboard Tableau project analyzing patient demographics, clinical activit
 ☁️ [ecommerce-azure-analytics](https://github.com/shubhamrajiwade29/ecommerce-azure-analytics)  
 End-to-end Azure data pipeline — ADF → Blob Storage → Databricks (PySpark) → Power BI with scheduled refresh
 
+📍 [suffolk-county-zip-analysis](https://github.com/shubhamrajiwade29/suffolk-county-zip-analysis)  
+Geospatial analysis of ZIP code desirability across Suffolk County, MA — composite scoring model (income, education, crime, housing, population) visualized in interactive Tableau dashboards + Python EDA notebook
+
 ---
 
 ## Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamrajiwade29.github.io-brightgreen)](https://shubhamrajiwade29.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamrajiwade-blue)](https://linkedin.com/in/shubhamrajiwade)
 [![Tableau](https://img.shields.io/badge/Tableau-Public-orange)](https://public.tableau.com/app/profile/shubham.rajiwade/vizzes)
 [![GitHub](https://img.shields.io/badge/GitHub-shubhamrajiwade29-black)](https://github.com/shubhamrajiwade29)
