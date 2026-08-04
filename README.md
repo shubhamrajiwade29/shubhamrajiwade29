@@ -73,7 +73,7 @@ Geospatial analysis of ZIP code desirability across Suffolk County, MA — compo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shubhamrajiwade29.github.io-brightgreen)](https://shubhamrajiwade29.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamrajiwade-blue?logo=linkedin)](https://linkedin.com/in/shubhamrajiwade)
-[![Email](https://img.shields.io/badge/Email-shubhamrajiwade29@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:shubhamrajiwade29@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rajiwade.s%40northeastern.edu-D14836?logo=gmail&logoColor=white)](mailto:rajiwade.s@northeastern.edu)
 [![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shubham.rajiwade/vizzes)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shubhamrajiwade29&color=brightgreen)](https://github.com/shubhamrajiwade29)
