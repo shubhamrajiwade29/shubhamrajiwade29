@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-3.5+ years delivering enterprise CRM and data solutions at TCS and Deloitte across financial services and healthcare. Now deepening expertise in data engineering, machine learning, Salesforce Data Cloud, and AI-driven analytics.
+4+ years delivering enterprise CRM and data solutions at TCS and Deloitte across financial services and healthcare. Now deepening expertise in data engineering, machine learning, Salesforce Data Cloud, and AI-driven analytics.
 
 - 🔨 **Currently working on:** Data engineering pipelines with dbt + Snowflake + AWS, and a GenAI analytics platform benchmarking 188 LLMs across cost, performance, and enterprise adoption
 - 🤝 **Looking to collaborate on:** Healthcare data analytics, Salesforce + data integration projects, and AI-powered analytics tools
