@@ -38,6 +38,12 @@
 
 ## 🚀 Featured Projects
 
+🧱 **[ecommerce-dbt-snowflake](https://github.com/shubhamrajiwade29/ecommerce-dbt-snowflake)**
+End-to-end analytics-engineering pipeline on the Olist e-commerce dataset, built natively on Snowflake with dbt (staging → intermediate → marts), incremental fact tables, and a live Tableau dashboard.
+
+🤖 **[llm-performance-adoption-analytics](https://github.com/shubhamrajiwade29/llm-performance-adoption-analytics)**
+LLM performance, cost & enterprise GenAI adoption analytics — 188 benchmarked models and a 100K-company adoption dataset, 3 Tableau dashboards, with an honest null-finding on productivity impact rather than a forced story.
+
 🔬 **[healthcare-claims-denial-analysis](https://github.com/shubhamrajiwade29/healthcare-claims-denial-analysis)**
 End-to-end analysis of 1.26M Medicare providers — $318B in denied claims identified, denial rate patterns by specialty and geography, Logistic Regression classifier (66% accuracy) predicting High/Medium/Low denial risk.
 
