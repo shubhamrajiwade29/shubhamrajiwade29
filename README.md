@@ -1,6 +1,6 @@
 # Hi, I'm Shubham Rajiwade 👋
 
-💼 Analytics Engineer & CRM Data Specialist
+💼 Analytics Engineer & Salesforce Developer
 🏥 Data Analyst Co-op @ Mass General Brigham (HomeBase)
 🎓 MS Engineering Management @ Northeastern University
 📍 Boston, MA | Open to Full-Time 2026
