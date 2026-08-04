@@ -3,7 +3,7 @@
 💼 Analytics Engineer & Salesforce Developer
 🏥 Data Analyst Co-op @ Mass General Brigham (HomeBase)
 🎓 MS Engineering Management @ Northeastern University
-📍 Boston, MA | Open to Full-Time 2026
+📍 Boston, MA | Open to Full-Time 2027
 🌐 [Portfolio](https://shubhamrajiwade29.github.io/portfolio)
 
 ---
