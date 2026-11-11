@@ -1,7 +1,7 @@
 # Hi, I'm Shubham Rajiwade 👋
 
 💼 Analytics Engineer & Salesforce Developer
-🏥 Recent Data Analyst Co-op @ Mass General Brigham (HomeBase)
+🏥 Recent Analyst (Co-op) @ Mass General Brigham (HomeBase)
 🎓 MS Engineering Management @ Northeastern University
 📍 Boston, MA | Open to Full-Time 2027
 🌐 [Portfolio](https://shubhamrajiwade29.github.io/portfolio)
@@ -16,7 +16,7 @@
 - 🤝 **Looking to collaborate on:** Healthcare data analytics, Salesforce + data integration projects, and AI-powered analytics tools
 - 🌱 **Currently learning:** AWS cloud architecture, advanced dbt features, and Salesforce Agentforce
 - 💬 **Ask me about:** Salesforce Health Cloud, ETL/ELT pipelines, SQL optimization, Tableau, healthcare analytics, and enterprise CRM
-- ⚡ **Fun fact:** 5× Salesforce Certified with 7 Superbadges — built a Health Cloud patient data tool at Mass General Brigham, a top-5 US hospital system
+- ⚡ **Fun fact:** 5 Salesforce certifications, 9 Superbadges and Agentblazer Innovator 2026 — built a Health Cloud patient data tool at Mass General Brigham, a top-5 US hospital system
 
 ---
 
