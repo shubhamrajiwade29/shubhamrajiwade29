@@ -44,7 +44,12 @@ High-level summaries only; no client or patient data.
 Built a React front end and FastAPI REST API over Health Cloud data staged in SQL Server, bringing scattered patient records into one view for 30+ clinicians. Also contributed to the team's migration of a legacy database into Health Cloud (field mapping, SQL cleaning, Data Loader, validation).
 
 🏦 **Enterprise implementations (Deloitte USI)**
-3 full life-cycle Salesforce implementations for banking, financial-services, and healthcare clients: Apex, LWC, Flow, REST/SOAP and MuleSoft integrations, role-based security, and Git, Salesforce DX, and Copado releases.
+Contributed to 3 full life-cycle Salesforce implementations for banking, financial-services, and healthcare clients: Apex, LWC, Flow, REST/SOAP and MuleSoft integrations, role-based security, and Git, Salesforce DX, and Copado releases.
+
+🛠️ **Sales & Service Cloud admin and enhancements (Tata Consultancy Services)**
+Administered Sales and Service Cloud and shipped 20+ CRM enhancements with Flows, Apex, and custom objects; optimized SOQL, reports, and dashboards (+30% query performance, −25% manual reporting effort).
+
+**Certifications:** Platform Developer I · Administrator · Platform App Builder · Agentforce Sales Consultant · JavaScript Developer I — verify on [Trailblazer](https://www.salesforce.com/trailblazer/shubhamrj29)
 
 <!-- Add a Salesforce DX sample repo here when ready, for example: Apex trigger framework with tests and an LWC component -->
 
