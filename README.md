@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-Salesforce Developer with 4+ years of experience across Sales, Service, and Health Cloud. At Deloitte USI I took 3 full life-cycle implementations from requirements through go-live for banking, financial-services, and healthcare clients; before that I worked on Sales and Service Cloud at TCS. Most recently, as an Analyst (Co-op) at Mass General Brigham, I helped migrate a legacy database into Health Cloud and built a patient-data tool used by 30+ clinicians. I'm completing my MS at Northeastern while going deeper on Agentforce and data engineering.
+Salesforce Developer with 4+ years of experience across Sales, Service, and Health Cloud. At Deloitte USI I contributed to 3 full life-cycle implementations from requirements through go-live for banking, financial-services, and healthcare clients; before that I worked on Sales and Service Cloud at TCS. Most recently, as an Analyst (Co-op) at Mass General Brigham, I helped migrate a legacy database into Health Cloud and built a patient-data tool used by 30+ clinicians. I'm completing my MS at Northeastern while going deeper on Agentforce and data engineering.
 
 - 🔨 **Building:** Salesforce solutions with Apex, LWC, and Flow, plus a GenAI analytics project benchmarking 188 LLMs on cost, performance, and enterprise adoption
 - 🤝 **Looking to collaborate on:** Health Cloud and financial-services projects, Salesforce + data integration, and AI-powered tools
@@ -71,6 +71,12 @@ Analysis of 1.26M Medicare providers: denial patterns by specialty and geography
 
 ☁️ **[ecommerce-azure-analytics](https://github.com/shubhamrajiwade29/ecommerce-azure-analytics)**
 Azure data pipeline: ADF → Blob Storage → Databricks (PySpark) → Power BI with scheduled refresh.
+
+📊 **[patient-data-dashboard](https://github.com/shubhamrajiwade29/patient-data-dashboard)**
+Multi-dashboard Tableau project analyzing patient demographics, clinical activity, and data quality across 10,000 synthetic patients.
+
+📍 **[suffolk-county-zip-analysis](https://github.com/shubhamrajiwade29/suffolk-county-zip-analysis)**
+Geospatial analysis of ZIP-code desirability across Suffolk County, MA: a composite scoring model visualized in interactive Tableau dashboards.
 
 ---
 
