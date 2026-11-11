@@ -1,6 +1,6 @@
 # Hi, I'm Shubham Rajiwade 👋
 
-💼 Analytics Engineer & Salesforce Developer
+💼 Salesforce Developer & Analytics Engineer
 🏥 Recent Analyst (Co-op) @ Mass General Brigham (HomeBase)
 🎓 MS Engineering Management @ Northeastern University
 📍 Boston, MA | Open to Full-Time 2027
@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-4+ years delivering enterprise CRM and analytics-engineering solutions at Deloitte and TCS across financial services and healthcare — most recently a Data Analyst co-op at Mass General Brigham. Now completing my MS at Northeastern while going deeper on dbt/Snowflake analytics engineering, the Salesforce platform, and AI-driven analytics.
+4+ years delivering enterprise CRM and analytics-engineering solutions at Deloitte and TCS across financial services and healthcare — most recently a Data Analyst co-op at Mass General Brigham. Now completing my MS at Northeastern while going deeper on the Salesforce platform (Health Cloud, Agentforce), dbt/Snowflake analytics engineering, and AI-driven analytics.
 
 - 🔨 **Currently working on:** Data engineering pipelines with dbt + Snowflake + AWS, and a GenAI analytics platform benchmarking 188 LLMs across cost, performance, and enterprise adoption
 - 🤝 **Looking to collaborate on:** Healthcare data analytics, Salesforce + data integration projects, and AI-powered analytics tools
